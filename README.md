@@ -1,7 +1,7 @@
 # Coffee-Sales-Sql-Analysis
 Business insights from a Coffee Sales dataset using PostgreSQL
 Coffee-Sales-Sql-Analysis
-│
+
 ├── README.md
 │
 ├── Dataset
@@ -10,7 +10,9 @@ Coffee-Sales-Sql-Analysis
 │   └── products.csv
 │   └── Sales.csv
 
-│
+
+
+
 ├── Question Images
 │   └── 1.png
 │   └── 2.png
@@ -18,7 +20,9 @@ Coffee-Sales-Sql-Analysis
 │   └── 4.png
 │   └── 5.png
 │   └── 6.png
-│
+
+
+
 └── data_Analysis-Sql-Analysis
     ├── Data_Analysis
  
